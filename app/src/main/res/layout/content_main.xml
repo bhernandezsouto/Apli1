@@ -12,9 +12,10 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="preciona"
+        android:text="hola"
         android:id="@+id/buttonTostada"
         android:onClick="Una Tostada"
+
         />
 
     <EditText
